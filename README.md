@@ -1,2 +1,4 @@
 # free-disocrd-developer-badge-unlocker
-it'sana application that unlockes the discord developer badge
+it's anapplication that unlockes the discord developer badge
+its bad
+
